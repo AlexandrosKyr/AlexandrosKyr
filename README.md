@@ -3,7 +3,7 @@
 ## About Me
 Data Science student with professional experience in various analytics positions, currently pursuing an MSc in Business Administration and Data Science at Copenhagen Business School.
 
-## 🌱 I'm currently...
+## I'm currently...
 - Developing deep learning-based models at ROCKWOOL Group
 - Visiting as a masters student at University of Copenhagen
 - Working on time series forecasting projects using TensorFlow
