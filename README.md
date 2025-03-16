@@ -1,7 +1,7 @@
 # Hello, I'm Alexandros Kyriakopoulos 👋
 
 ## About Me
-Data Science student with professional experience in analytical and data science positions, currently pursuing an MSc in Business Administration and Data Science at Copenhagen Business School.
+Data Science student with professional experience in various analytics positions, currently pursuing an MSc in Business Administration and Data Science at Copenhagen Business School.
 
 ## 🌱 I'm currently...
 - Developing deep learning-based models at ROCKWOOL Group
