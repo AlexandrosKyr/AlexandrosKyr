@@ -1,4 +1,4 @@
-# Hello, I'm Alexandros Kyriakopoulos 👋
+# Hello, I'm Alex
 
 ## About Me
 Data Science student with professional experience in various analytics positions, currently pursuing an MSc in Business Administration and Data Science at Copenhagen Business School.
