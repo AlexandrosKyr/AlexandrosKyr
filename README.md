@@ -31,22 +31,8 @@ Data Science student with professional experience in various analytics positions
 - **Data Science & ML**: TensorFlow & Keras (subclassing), TensorFlow Probability, PyTorch, Pyro, Scikit-Learn
 - **Data Processing**: NumPy, Pandas, SciPy
 - **BI & Visualization**: PowerBI, Tableau, SAP Analytics Cloud
-- **Cloud & Tools**: Snowflake, Jira, Docker basics
-
-## 🔍 Interests
-- K1 Slalom racing (ranked among top 10 junior athletes in Greece)
-- Volleyball (6th place in national high school games, 2017)
-- Hiking, gym
-- Reading biographies, fantasy and science fiction
+- **Cloud & Tools**: Azure, Google Cloud, Snowflake, Jira, Docker basics
 
 ## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandros-kyriakopoulos)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-
----
-
-### 📊 GitHub Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandros-kyriakopoulos&show_icons=true&theme=radical)
-
-### 📈 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandros-kyriakopoulos&layout=compact&theme=radical)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/alexandros-kyriakopoulos](https://www.linkedin.com/in/alexandroskyriakopoulos/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alex.kyr.triant@gmail.com)
