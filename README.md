@@ -9,7 +9,7 @@
 ### Education
 - **MSc Business Administration and Data Science** · Copenhagen Business School · *2023 – 2025*
   Thesis: Forecasting Demand for ROCKWOOL using Machine Learning
-- **BSc in Business Administration – Major in Information Systems** · Athens University of Economics and Business · *2017 – 2022*
+- **BSc in Business Administration – Major in Management Information Systems** · Athens University of Economics and Business · *2017 – 2022*
 
 ### Tech Stack
 - **Programming:** Python, SQL, R
